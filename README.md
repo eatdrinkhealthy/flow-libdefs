@@ -1,7 +1,7 @@
 # flow-libdefs
 A collection of flowtype library definition files (libdefs), to support EDH projects.
 
-These libdefs were created to support projects currently being built / maintained by Eat Drink Healthy. As such, the libdefs may not fully define all elements of any given library.
+These libdefs were created to support projects currently being built / maintained by Eat Drink Healthy. As such, the libdefs may not fully define all items of any given library.
 
 Feel free to use, share, and / or make pull requests.
 
